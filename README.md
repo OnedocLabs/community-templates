@@ -1,7 +1,7 @@
 <img width="1511" alt="dev-local" src="https://github.com/OnedocLabs/dev-local/assets/62055769/23da6d24-2f63-45c6-b948-33e6f17f1f0c">
 
-<div align="center"><strong>Dev Local</strong></div>
-<div align="center">The new way to build documents.<br />High-quality, unstyled components for creating PDFs.</div>
+<div align="center"><strong>Community Templates</strong></div>
+<div align="center">View our community's finest templates, hand picked to get you started even faster !</div>
 <br />
 <div align="center">
 <a href="https://www.onedoclabs.com/">Website</a> 
