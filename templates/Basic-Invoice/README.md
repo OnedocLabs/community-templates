@@ -1,4 +1,4 @@
-<img width="1511" alt="dev-local" src="https://mintlify.s3-us-west-1.amazonaws.com/onedoclabs/images/previews/ui-templates-invoice-39deb26a/document.1.jpg">
+<img width="1511" alt="dev-local" src="https://github.com/OnedocLabs/community-templates/blob/main/templates/QR-Invoice/images/basic-invoice.jpg">
 
 <div align="center"><strong>Dev Local</strong></div>
 <div align="center">The new way to build documents.<br />High-quality, unstyled components for creating PDFs.</div>
