@@ -1,6 +1,6 @@
-<img width="1511" alt="dev-local" src="https://github.com/OnedocLabs/dev-local/assets/62055769/23da6d24-2f63-45c6-b948-33e6f17f1f0c">
+<div align="center"><img width="750" alt="dev-local" src="https://github.com/OnedocLabs/community-templates/blob/main/templates/NDA-markdown/images/nda-markdown.jpg"></div>
 
-<div align="center"><strong>Dev Local</strong></div>
+<div align="center"><strong>NDA Markdown</strong></div>
 <div align="center">The new way to build documents.<br />High-quality, unstyled components for creating PDFs.</div>
 <br />
 <div align="center">
