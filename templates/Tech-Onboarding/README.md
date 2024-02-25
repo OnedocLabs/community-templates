@@ -1,6 +1,6 @@
 <div align="center"><img width="750" alt="dev-local" src="https://github.com/OnedocLabs/community-templates/blob/main/templates/Tech-Onboarding/images/tech-onboarding.jpg"></div>
 
-<div align="center"><strong>QR Invoice</strong></div>
+<div align="center"><strong>Tech Onboarding</strong></div>
 <div align="center">The new way to build documents.<br />High-quality, unstyled components for creating PDFs.</div>
 <br />
 <div align="center">
