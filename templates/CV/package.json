@@ -1,7 +1,7 @@
 {
-  "name": "basic-invoice",
+  "name": "CV",
   "version": "1.0.0",
-  "description": "A basic invoice template built with React and Tailwind",
+  "description": "A basic CV template of a Software Engineer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
