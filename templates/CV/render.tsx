@@ -3,6 +3,7 @@ import { Onedoc } from "@onedoc/client";
 import fs from "fs";
 import {compile} from "@onedoc/react-print"
 import {CV} from "./src/main.tsx" 
+import path from "path"
 
 const onedoc = new Onedoc(process.env.ONEDOC_API_KEY!);
 
@@ -18,7 +19,7 @@ const onedoc = new Onedoc(process.env.ONEDOC_API_KEY!);
     assets: [
       {
         path: "./util/util.css",
-        content: readFileSync(join(process.cwd(), "./util/util.css")).toString(),
+        content: fs.readFileSync(path.join(process.cwd(), "./util/util.css")).toString(),
       },
     ],
   });
