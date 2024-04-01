@@ -23,11 +23,11 @@ import { CSS } from "@onedoc/react-print";
                       ,educates and inspires readers.</p>
                   <p className="text-sm mb-3 font-semibold">SKILLS</p>
                   <div className="text-sm mb-7">
-                      <p className="mb-2">-Teamwork</p>
-                      <p className="mb-2">-Communication</p>
-                      <p className="mb-2">-Data visualisation</p>
-                      <p className="mb-2">-InDesign</p>
-                      <p className="mb-2">-Google Suite</p>
+                      <p className="mb-2">• Teamwork</p>
+                      <p className="mb-2">• Communication</p>
+                      <p className="mb-2">• Data visualisation</p>
+                      <p className="mb-2">• InDesign</p>
+                      <p className="mb-2">• Google Suite</p>
                   </div>
                   <p className="text-sm mb-4 font-semibold">CONTACT</p>
                   <p className="text-sm mb-2">📞+1 686 0202 020</p>
