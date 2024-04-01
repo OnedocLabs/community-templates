@@ -2,13 +2,13 @@ import React from "react";
 import { Onedoc } from "@onedoc/client";
 import fs from "fs";
 import {compile} from "@onedoc/react-print"
-import {NewCV} from "./src/main.tsx" 
+import {CV} from "./src/main.tsx" 
 
 const onedoc = new Onedoc(process.env.ONEDOC_API_KEY!);
 
 (async () => {
 
-  const html = await compile(<NewCV />);
+  const html = await compile(<CV />);
   
 
   const { file, error } = await onedoc.render({
@@ -22,6 +22,6 @@ const onedoc = new Onedoc(process.env.ONEDOC_API_KEY!);
 
   console.log(error)
   
-  fs.writeFileSync("./basic-invoice.pdf", Buffer.from(file));
+  fs.writeFileSync("./cv.pdf", Buffer.from(file));
 
 })();
