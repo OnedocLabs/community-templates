@@ -1,8 +1,12 @@
 import { Tailwind } from '@onedoc/react-print'
 import React from 'react'
+import { CSS } from "@onedoc/react-print";
+
 
  export const NewCV = () => {
     return (
+      <React.Fragment>
+      <CSS>{`@page {size: A4;margin-top:0cm;margin-right:0cm;margin-left:0cm;margin-bottom:0cm;`}</CSS>
       <Tailwind>
       <div className="min-h-screen flex justify-center items-center font-[Poppins]">
           <div className="flex rounded">
@@ -79,6 +83,7 @@ import React from 'react'
           </div>
             </div>
             </Tailwind>
+       </React.Fragment>
   )
 }
 
