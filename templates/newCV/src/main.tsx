@@ -39,31 +39,31 @@ import { CSS } from "@onedoc/react-print";
                   <p className="text-sm mb-2 font-bold text-black">THE VIRGINIAN PILOT |20XX-20XX</p>
                   <p className="text-sm mb-2 text-gray-400 font-bold">Journalist,Nortfolk</p>
                   <p className=" text-xs mb-1 text-black  font-medium">Tasks:</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Pitch timely story ideas for investigative journalism</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Write 15 stories monthly covering the latest in breaking news.</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•In-depth analysis of relevent political events.</p>
-                  <p className=" text-xs  text-black  font-medium mb-3">•Fact-checking for accuracy and data visualization purposes.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Pitch timely story ideas for investigative journalism</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Write 15 stories monthly covering the latest in breaking news.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• In-depth analysis of relevent political events.</p>
+                  <p className=" text-xs  text-black  font-medium mb-3">• Fact-checking for accuracy and data visualization purposes.</p>
                   
                   <p className="text-sm mb-2 font-bold text-black">DAILY PRESS|20XX-20XX</p>
                   <p className="text-sm mb-2 text-gray-400 font-bold">Staff Editor,Newport News</p>
                   <p className=" text-xs mb-1 text-black  font-medium">Tasks:</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Published a weekly blog covering the latest in tech innovations.</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Maintained a 3.5% engagement rate.</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Interviewed a digital entrepreneurs on a weekly basis.</p>
-                  <p className=" text-xs  text-black  font-medium mb-3">•Added in-house writers in editing and fact-checking for accuracy.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Published a weekly blog covering the latest in tech innovations.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Maintained a 3.5% engagement rate.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Interviewed a digital entrepreneurs on a weekly basis.</p>
+                  <p className=" text-xs  text-black  font-medium mb-3">• Added in-house writers in editing and fact-checking for accuracy.</p>
                   
                   <p className="text-sm mb-2 font-bold text-black">WASHINGTON POST|20XX-20XX</p>
                   <p className="text-sm mb-2 text-gray-400 font-bold">Washington D.C.,Washington</p>
                   <p className=" text-xs mb-1 text-black  font-medium">Tasks:</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Created compeliling pieces for online publications which included coordinating images and layouts for best presentation standards.</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Developed key story ideas by evaluating and following up on news leads and tips.</p>
-                  <p className=" text-xs  text-black  font-medium mb-3">•Aided contributions in editing and fact-checking for accuracy..</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Created compeliling pieces for online publications which included coordinating images and layouts for best presentation standards.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Developed key story ideas by evaluating and following up on news leads and tips.</p>
+                  <p className=" text-xs  text-black  font-medium mb-3">• Aided contributions in editing and fact-checking for accuracy..</p>
 
                   <p className="text-sm mb-2 font-bold text-black">THE GUARDIAN|20XX-20XX</p>
                   <p className="text-sm mb-2 text-gray-400 font-bold">Contributor,Remote</p>
                   <p className=" text-xs mb-1 text-black  font-medium">Tasks:</p>
-                  <p className=" text-xs mb-1 text-black  font-medium">•Conducted interviews and covered key moments from the G20 Summit 2021 in Italy.</p>
-                  <p className=" text-xs  text-black  font-medium mb-3">•Produced in-depth and engaging online content in accordance with house style.</p>
+                  <p className=" text-xs mb-1 text-black  font-medium">• Conducted interviews and covered key moments from the G20 Summit 2021 in Italy.</p>
+                  <p className=" text-xs  text-black  font-medium mb-3">• Produced in-depth and engaging online content in accordance with house style.</p>
                   <br/>
                   <div className="p-1 bg-[#feeeca] text-[#444d5e] text-base font-bold mb-3">LANGUAGES</div>
                   <p className=" text-xs mb-1 text-black  font-semibold">English: Native.</p>
