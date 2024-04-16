@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { CSS } from '@onedoc/react-print'
+import { CSS,Tailwind } from '@onedoc/react-print'
 import React from 'react'
 
 const JD = () => {
@@ -33,6 +33,7 @@ const JD = () => {
     , "Willingness to sign an NDA"]  
 }
   return (
+    <TailWind>
     <React.Fragment>
     <CSS>
       {
@@ -100,6 +101,7 @@ const JD = () => {
         </div>
       </div>
       </React.Fragment>
+      </TailWind>
   )
 }
 
