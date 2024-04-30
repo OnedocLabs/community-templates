@@ -22,6 +22,6 @@ const onedoc = new Onedoc(process.env.ONEDOC_API_KEY!);
 
   console.log(error)
   
-  fs.writeFileSync("./basic-invoice.pdf", Buffer.from(file));
+  fs.writeFileSync("./reales2.pdf", Buffer.from(file));
 
 })();
